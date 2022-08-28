@@ -24,7 +24,7 @@
 
 ## Find at :mag:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/franciscofcpinto/)
-
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/francisco-pinto)
 <!--
 **francisco-pinto/francisco-pinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
