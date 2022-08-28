@@ -5,7 +5,7 @@
 
 ## About Me :raising_hand_man: 
 
-:necktie: I'm a backend software developer working with microsservices.   
+:necktie: I'm a backend developer working with microsservices.   
 :hammer: Some of the technologies I work on daily are C#, .NET, SQL, Docker.   
 :books: Right now, I'm interested in developing my knowledge of Kubernetes
 
