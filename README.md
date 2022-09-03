@@ -1,4 +1,4 @@
-## Hi there, I'm Francisco Pinto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there, I'm Francisco Pinto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 :eyes: Here you can see some of the **projects developed by me** and others **together with other colleagues**.   
 :computer: These projects range from **university projects** to **didactic projects** in order to understand and **satisfy curiosity** in some of the themes such as ciphers, games, network projects being these developed in different languages.
@@ -12,15 +12,19 @@
 ## 🛠️ Skills
   
 ### Languages
-![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-white?style=for-the-badge&logo=graphql&logoColor=pink)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### Other tecnologies
+### Dev-Ops
 ![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+
+### Frameworks
+![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Find at :mag:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/franciscofcpinto/)
