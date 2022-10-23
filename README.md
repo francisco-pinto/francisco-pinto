@@ -1,7 +1,7 @@
 # Hi there, I'm Francisco Pinto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 :eyes: Here you can see some of the **projects developed by me** and others **together with other colleagues**.   
-:computer: These projects range from **university projects** to **didactic projects** in order to understand and **satisfy curiosity** in some of the themes such as ciphers, games, network projects being these developed in different languages.
+:computer: These projects range from **university projects** to **didactic projects** in order to understand and satisfy curiosity in some of the themes such as ciphers, games, network projects, being these developed in different languages.
 
 ## About Me :raising_hand_man: 
 
