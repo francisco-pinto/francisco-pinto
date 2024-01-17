@@ -7,14 +7,13 @@
 
 :necktie: I'm a backend developer working with microsservices.   
 :hammer: Some of the technologies I work on daily are C#, .NET, SQL, Docker.   
-:books: Right now, I'm interested in developing my knowledge of Kubernetes
+:books: Right now, I'm interested in developing my knowledge of Kubernetes. I finished my masters degree by doing a dissertation about deployment strategies in Kubernetes in microservices architectures and I'm developing my knowledge through a series of courses to prepare me for the CKAD.
 
 ## 🛠️ Skills
   
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQL-white?style=for-the-badge&logo=graphql&logoColor=pink)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -22,6 +21,7 @@
 
 ### Dev-Ops
 ![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Frameworks
 ![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white)
