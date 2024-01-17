@@ -7,7 +7,7 @@
 
 :necktie: I'm a backend developer working with microsservices.   
 :hammer: Some of the technologies I work on daily are C#, .NET, SQL, Docker.   
-:books: Right now, I'm interested in developing my knowledge of Kubernetes. I finished my masters degree by doing a dissertation about deployment strategies in Kubernetes in microservices architectures and I'm developing my knowledge through a series of courses to prepare me for the CKAD.
+:books: Right now, I'm interested in developing my knowledge of Kubernetes. I finished my masters degree by doing a dissertation about deployment strategies in Kubernetes in microservices architectures and I'm developing my knowledge through a series of courses to prepare me for the CKAD exam.
 
 ## 🛠️ Skills
   
